@@ -1,2 +1,2 @@
 # Miscellaneous
-This contains the different programs to accomplish different tasks.
+This contains the codes to accomplish different tasks.
